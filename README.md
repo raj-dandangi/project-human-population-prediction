@@ -83,7 +83,7 @@ This project explores the relationships between population growth, CO₂ emissio
 
 a strong positive linear relationship between population and CO₂ emissions¶
 adressing the noise : At lower scales, data collection techniques and reporting standards can differ, introducing noise as population increases, CO₂ emissions tend to increase as well.
-
+![Alt text](corelation.png)
 ### question answer 2 : 
 Forecast Trend : forecasting bithrate using LSTM model 
 The forecasted data shows a continuation of the stable trend observed in recent years, with births remaining close to 250,000 to 260,000. upto the year 2035
